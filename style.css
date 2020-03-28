@@ -1,0 +1,24 @@
+body {
+	background-color: #000;
+}
+
+div {
+	color: #fff;
+	font-size: 16px;
+	font-family: "Comic Sans MS";
+}
+
+a {
+	color: #666;
+	font-size: 16px;
+	font-family: "Comic Sans MS";
+}
+
+.header {
+	font-size: 32px;
+}
+
+.opcreator {
+	color: #666;
+	font-size: 12px;
+}
